@@ -257,9 +257,9 @@ npm start
 
 ## 👨‍💻 Team
 
-- [Ravi Datta Rachuri](mailto:rrachuri@gmu.edu)  
-- [Shuchi Nirav Shah](mailto:sshah59@gmu.edu)  
-- [Akash Bejugam](mailto:abejuga2@gmu.edu)  
 - [Datha Vaishnavi Kondur](mailto:dkondur@gmu.edu)  
+- [Akash Bejugam](mailto:abejuga2@gmu.edu)  
+- [Ravi Datta Rachuri](mailto:rrachuri@gmu.edu)  
 - [Yashaswi Gurram](mailto:ygurram@gmu.edu)  
+- [Shuchi Nirav Shah](mailto:sshah59@gmu.edu)  
 - [Vardhan Tharlapally](mailto:vtharlap@gmu.edu)
