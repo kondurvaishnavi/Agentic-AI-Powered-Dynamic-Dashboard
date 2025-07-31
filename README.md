@@ -3,9 +3,9 @@
 
 ## 🧠 Overview
 
-In today’s fast-paced digital landscape, organizations face immense challenges in monitoring and maintaining cybersecurity across diverse data sources. This project presents an **AI-powered, real-time dashboard system** that processes natural language prompts to generate dynamic cybersecurity insights tailored to both technical and non-technical users.
+In today’s fast-paced digital landscape, organizations struggle to monitor and interpret cybersecurity events across diverse data sources. This project introduces an AI-powered real-time dashboard that transforms natural language prompts into dynamic cybersecurity insights, making threat detection and monitoring accessible to both technical and non-technical users.
 
-Leveraging **SecureGPT**, AWS Lambda, and Plotly visualizations, the system fetches, analyzes, and visualizes security data from logs, alerts, and task datasets, empowering stakeholders with instant, actionable intelligence with **no manual scripting or data wrangling required**.
+Built with SecureGPT, AWS Lambda, and Plotly, the system automatically processes logs, alerts, and task data to deliver instant visual reports and summaries without manual queries or complex data wrangling.
 
 ## 📌 Problem Statement
 
