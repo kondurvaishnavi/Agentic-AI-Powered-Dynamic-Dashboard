@@ -1,0 +1,29 @@
+.input-wrapper {
+    width: 100%;
+  }
+  
+  .input-field {
+    width: 92%;
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  
+  .input-field:focus {
+    border-color: #5c67f2; /* Tunnel Bear's theme-like color */
+    box-shadow: 0 0 0 1px #5c67f2;
+  }
+  
+  .input-error {
+    margin-top: 4px;
+    font-size: 0.875rem;
+    color: #e53935; /* red */
+  }
+  
+  .bear-avatar {
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+  }
+  

@@ -1,0 +1,60 @@
+.login-form {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .bear-avatar-wrapper {
+    width: 130px;
+    height: 130px;
+    position: relative;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .password-wrapper {
+    position: relative;
+    width: 100%;
+  }
+  
+  .toggle-password-btn {
+    position: absolute;
+    right: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .eye-icon {
+    width: 20px;
+    height: 20px;
+    transition: transform 0.2s;
+  }
+  
+  .eye-icon:hover {
+    transform: scale(1.1);
+  }
+  
+  .login-btn {
+    width: 100%;
+    padding: 1rem;
+    font-weight: 600;
+    font-size: 1.125rem;
+    border-radius: 0.5rem;
+    background-color: #ffcc00; /* or replace with your bear-yellow */
+    border: none;
+    cursor: pointer;
+  }
+  
+  .login-btn:focus {
+    outline: 2px solid #ffcc00;
+    outline-offset: 2px;
+  }
+  
